@@ -3,6 +3,6 @@ exposed-1	sleep-8
 exposed-2	sleep-8
 exposed-3	sleep-8
 recovered	do-nothing
-symptoms-1	do-nothing
-symptoms-2	do-nothing
-symptoms-3	do-nothing
+symptoms-1	drink-oj
+symptoms-2	drink-oj
+symptoms-3	drink-oj
