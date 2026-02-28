@@ -1,0 +1,8 @@
+state	optimal_action	expected_discomfort
+exposed-1	sleep-8	1.6522948849532368
+exposed-2	sleep-8	3.307897672119388
+exposed-3	sleep-8	6.622417768544149
+recovered	do-nothing	-0.0
+symptoms-1	do-nothing	13.258093640135105
+symptoms-2	do-nothing	9.965661542723833
+symptoms-3	do-nothing	3.3255736614121054
